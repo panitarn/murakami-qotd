@@ -16,7 +16,7 @@ body{
 }
 
 .wrapper{
-  width: 705px;
+  width: 655px;
   background: #fff;
   border-radius: 15px;
   padding: 30px 30px 25px;
@@ -115,11 +115,12 @@ ul .speech.active{
 }
 
 .footer {
-  font-family: 'SF Pro', sans-serif;
+  font-family: 'Poppins', sans-serif;
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
+  height: 3%;
   background-color: red;
   color: white;
   text-align: center;
